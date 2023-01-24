@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="26px">
 
 <!--
 **EnickJhony/EnickJhony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=vision-friendly-dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=vision-friendly-dark
+
 -->
