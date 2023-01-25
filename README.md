@@ -26,6 +26,21 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=dark" alt="Enick's most languages"/>
 </p>
 
+<h2>Contato</h2>
+<div align="left">
+   <a href="https://web.whatsapp.com/send?phone=+5592984113441" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+   </a>
+   <a href="https://www.instagram.com/enickjhony/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+   </a>
+   <a href="mailto:enick.jhony@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D5AE22?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/>
+   </a>
+   <a href="https://www.linkedin.com/in/enickjhony/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+   </a>
+</div>
 
 
 <!--
