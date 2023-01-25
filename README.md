@@ -14,12 +14,24 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="NodeJS">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma" alt="Prisma">
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="PostgreSQL">
 </div>
 
+<h2>Tools</h2>
+<div>
+   <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode" alt="VSCode"/>
+   <img src="https://img.shields.io/badge/-Notepad++-05122A?style=flat&logo=Notepadplusplus" alt="Notepadplusplus"/>
+   <img src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion" alt="Notion"/>
+   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma" alt="Figma"/>
+   <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello" alt="Trello"/>
+   <img src="https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave" alt="Brave"/>
+   <img src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=Spotify" alt="Spotify"/>
+<div>
+   
 <h2>Stats</h2>
 <p align="center">
    <img width="520em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
@@ -42,19 +54,3 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
    </a>
 </div>
-
-
-<!--
-**EnickJhony/EnickJhony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
