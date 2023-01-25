@@ -21,9 +21,10 @@
 </div>
 
 <h2>Stats</h2>
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=dark" alt="Enick's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=dark" alt="Enick's most languages"/>
+<p align="center">
+   <img width="525em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
+   <img width="465em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
+   <img width="560em" src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple" alt="My contributions"/>
 </p>
 
 <h2>Contato</h2>
