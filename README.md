@@ -22,9 +22,9 @@
 
 <h2>Stats</h2>
 <p align="center">
-   <img width="460em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
-   <img width="405em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
-   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple" alt="My contributions"/>
+   <img width="600em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
+   <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
+   <img width="600em" src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple" alt="My contributions"/>
 </p>
 
 <h2>Contato</h2>
