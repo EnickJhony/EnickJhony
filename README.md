@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL" alt="MySQL">
 </div>
 
 <h2>Tools</h2>
