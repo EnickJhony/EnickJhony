@@ -1,4 +1,4 @@
-<h1>Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="26px"> me chamo Enick Jhony!</h1>
+<h1>Oi, me chamo Enick Jhony!</h1>
 <p>E quero ajudar a deixar o mundo um lugar melhor.</p>
 <p>Como?</p>
 <p>
@@ -35,10 +35,13 @@
    
 <h2>Stats</h2>
 <p align="center">
-   <img width="520em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
-   <img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
+   <img width="480em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
+   <img width="364em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
+   <!--
    <img width="520em" src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple" alt="My contributions"/>
+   -->
 </p>
+   
 
 <h2>Contato</h2>
 <div align="left">
