@@ -35,8 +35,8 @@
    
 <h2>Stats</h2>
 <p align="center">
-   <img width="480em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
-   <img width="364em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
+   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple" alt="Enick's stats"/>
+   <img width="288em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&layout=compact&theme=midnight-purple" alt="Enick's most languages"/>
    <!--
    <img width="520em" src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple" alt="My contributions"/>
    -->
