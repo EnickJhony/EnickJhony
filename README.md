@@ -12,25 +12,19 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="NodeJS">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma" alt="Prisma">
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django" alt="Django">
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL" alt="MySQL">
 </div>
 
 <h2>Tools</h2>
 <div>
    <img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode" alt="VSCode"/>
-   <img src="https://img.shields.io/badge/-Notepad++-05122A?style=flat&logo=Notepadplusplus" alt="Notepadplusplus"/>
    <img src="https://img.shields.io/badge/-Notion-05122A?style=flat&logo=Notion" alt="Notion"/>
    <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma" alt="Figma"/>
    <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello" alt="Trello"/>
    <img src="https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave" alt="Brave"/>
-   <img src="https://img.shields.io/badge/-Spotify-05122A?style=flat&logo=Spotify" alt="Spotify"/>
 <div>
    
 <h2>Stats</h2>
