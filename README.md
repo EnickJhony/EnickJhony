@@ -32,7 +32,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple&hide_border=true" alt="Enick's stats"/>
 </p> -->
 <p align="center">
-   <img width="496em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&theme=midnight-purple&hide_border=true&layout=compact" alt="Enick's most languages"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&theme=midnight-purple&hide_border=true&layout=compact" alt="Enick's most languages"/>
 </p>
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple&hide_border=true" alt="My contributions"/>
