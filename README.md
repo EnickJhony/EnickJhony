@@ -1,3 +1,7 @@
+<header>
+    <img width=10000 src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Enick%20Jhony&fontSize=85&animation=twinkling&fontAlignY=38&desc=%20Systems%20Analyst%20|%20Developer&descAlignz=51&descAlign=62" />
+</header>
+
 <h1>Oi, me chamo Enick Jhony!</h1>
 <p>E quero ajudar a deixar o mundo um lugar melhor.</p>
 <p>Como?</p>
