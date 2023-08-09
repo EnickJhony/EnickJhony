@@ -1,15 +1,28 @@
 <header>
-    <img width=10000 src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Enick%20Jhony&fontSize=85&animation=twinkling&fontAlignY=38&desc=%20Systems%20Analyst%20|%20Developer&descAlignz=51&descAlign=62" />
+  <img
+    width=1000
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi,%20I'm%20Enick%20Jhony&fontSize=55&animation=twinkling&fontAlignY=38&desc=%20Systems%20Analyst%20|%20Developer&descAlignz=51&descAlign=62"
+  />
 </header>
 
-<h1>Oi, me chamo Enick Jhony!</h1>
-<p>E quero ajudar a deixar o mundo um lugar melhor.</p>
-<p>Como?</p>
-<p>
-   Desenvolvendo soluções tecnológicas que faça da vida das pessoas mais
-   fácil ou melhor!
-</p>
-<p>Sua empresa faz isso? eu vou adorar fazer parte do seu time!</p>
+### Who am I?
+<details open>
+<summary><small>PT-BR</small></summary>
+
+👨🏼‍💻 Possuo 9 anos de experiencia em TI, dos quais 3 deles atuei como analista de sistemas em um home center da região de Manaus.
+
+📓 Iniciei a faculdade com 17 anos me formando 4 anos depois no curso de Analise e Desenvolvimento de Sistemas, pelo Centro Universitário do Norte - Uninorte, e posteriormente fiz uma pós graduação em Computação Forense em Mídias Digitais, pelo IPOG.
+
+
+</details>
+<details>
+<summary><small>EN-US</small></summary>
+
+👨🏼‍💻 I have 9 years of experience in IT, 3 of which I worked as a systems analyst in a home center in the Manaus region.
+
+📓 When I was 17, I started college, graduating 4 years later in the Systems Analysis and Development course, at Centro Universitário do Norte - Uninorte, and later I did a postgraduate degree in Computer Forensics in Digital Media, at IPOG
+
+</details>
 
 <h2>Skills</h2>
 <div>
@@ -30,19 +43,22 @@
    <img src="https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello" alt="Trello"/>
    <img src="https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave" alt="Brave"/>
 <div>
-   
+
 <h2>Stats</h2>
-<!-- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple&hide_border=true" alt="Enick's stats"/>
-</p> -->
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&theme=midnight-purple&hide_border=true&layout=compact" alt="Enick's most languages"/>
-</p>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=enickjhony&theme=midnight-purple&hide_border=true" alt="My contributions"/>
-</p>
-
-
+<div align=center>
+  <img
+    align=center
+    width=460
+    src="https://github-readme-stats.vercel.app/api?username=EnickJhony&show_icons=true&theme=midnight-purple&hide_border=true"
+    alt="Enick's stats"
+  />
+  <img
+    align=center
+    width=350
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnickJhony&theme=midnight-purple&hide_border=true&layout=compact"
+    alt="Enick's most languages"
+  />
+</div>
 <h2>Contato</h2>
 <div align="left">
    <a href="https://web.whatsapp.com/send?phone=+5592984113441" target="_blank">
