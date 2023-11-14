@@ -1,18 +1,18 @@
 <header>
   <img
     width=1000
-    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hi,%20I'm%20Enick%20Jhony&fontSize=55&animation=twinkling&fontAlignY=38&desc=%20Systems%20Analyst%20|%20Developer&descAlignz=51&descAlign=62"
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hi,%20I'm%20Enick%20Jhony&fontSize=50&animation=twinkling&fontAlignY=25&desc=%20Systems%20Analyst%20|%20Developer&descAlign=39&descAlignY=45"
   />
 </header>
 
 ### Who am I?
+
 <details open>
 <summary><small>PT-BR</small></summary>
 
-👨🏼‍💻 Possuo 9 anos de experiencia em TI, dos quais 3 deles atuei como analista de sistemas em um home center da região de Manaus.
+👨🏼‍💻 Possuo 9 anos de experiencia em TI, dos quais nesses últimos 3 atuei como analista de sistemas em um home center da região de Manaus.
 
 📓 Iniciei a faculdade com 17 anos me formando 4 anos depois no curso de Analise e Desenvolvimento de Sistemas, pelo Centro Universitário do Norte - Uninorte, e posteriormente fiz uma pós graduação em Computação Forense em Mídias Digitais, pelo IPOG.
-
 
 </details>
 <details>
